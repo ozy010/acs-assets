@@ -4,7 +4,7 @@ Static assets for the **Apex Combat Series** prototype, hosted via GitHub Pages.
 
 ## Base URL
 ```
-https://[your-username].github.io/acs-assets/
+https://ozy010.github.io/acs-assets/
 ```
 
 ## Asset inventory
@@ -31,23 +31,23 @@ https://[your-username].github.io/acs-assets/
 
 ```html
 <!-- Nav logo (default: navy) -->
-<img id="nav-logo-img" src="https://[your-username].github.io/acs-assets/Logo-full-text-navy.svg" 
+<img id="nav-logo-img" src="https://ozy010.github.io/acs-assets/Logo-full-text-navy.svg" 
      style="height:32px"
-     onmouseover="this.src='https://[your-username].github.io/acs-assets/Logo-full-text-blue.svg'"
-     onmouseout="this.src='https://[your-username].github.io/acs-assets/Logo-full-text-navy.svg'">
+     onmouseover="this.src='https://ozy010.github.io/acs-assets/Logo-full-text-blue.svg'"
+     onmouseout="this.src='https://ozy010.github.io/acs-assets/Logo-full-text-navy.svg'">
 
 <!-- Nav logo (homepage: always blue) -->
-<img src="https://[your-username].github.io/acs-assets/Logo-full-text-blue.svg" style="height:32px">
+<img src="https://ozy010.github.io/acs-assets/Logo-full-text-blue.svg" style="height:32px">
 
 <!-- Footer logo -->
-<img src="https://[your-username].github.io/acs-assets/Logo-full-text-white.svg" style="height:28px">
+<img src="https://ozy010.github.io/acs-assets/Logo-full-text-white.svg" style="height:28px">
 
 <!-- Favicon in <head> -->
-<link rel="icon" type="image/svg+xml" href="https://[your-username].github.io/acs-assets/favicon.svg">
-<link rel="icon" type="image/png" href="https://[your-username].github.io/acs-assets/favicon-32.png">
+<link rel="icon" type="image/svg+xml" href="https://ozy010.github.io/acs-assets/favicon.svg">
+<link rel="icon" type="image/png" href="https://ozy010.github.io/acs-assets/favicon-32.png">
 
 <!-- OG meta in <head> -->
-<meta property="og:image" content="https://[your-username].github.io/acs-assets/acs-og-image.svg">
+<meta property="og:image" content="https://ozy010.github.io/acs-assets/acs-og-image.svg">
 ```
 
 ## How to deploy
@@ -56,7 +56,7 @@ https://[your-username].github.io/acs-assets/
 2. Upload all files from this folder to the repo root
 3. Go to **Settings → Pages → Source → Deploy from branch → main → / (root)**
 4. Wait ~60 seconds, then assets are live at the base URL above
-5. Replace `[your-username]` throughout with your actual GitHub username
+5. Replace `ozy010` throughout with your actual GitHub username
 
 ## Placeholder slots in prototype
 
