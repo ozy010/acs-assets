@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- ACS icon: bold A letterform with blue star accent -->
+  <path d="M32 4 L58 56 H46 L41 44 H23 L18 56 H6 Z" fill="#ffffff"/>
+  <path d="M32 18 L25 40 H39 Z" fill="#ffffff"/>
+  <!-- Crossbar -->
+  <rect x="24" y="34" width="16" height="5" fill="#ffffff"/>
+  <!-- Star accent top -->
+  <polygon points="32,0 34,6 40,6 35,10 37,16 32,12 27,16 29,10 24,6 30,6" fill="#1A6FE8"/>
+</svg>
