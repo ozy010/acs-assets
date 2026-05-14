@@ -4,7 +4,7 @@ Static assets for the **Apex Combat Series** prototype, hosted via GitHub Pages.
 
 ## Base URL
 ```
-https://ozy010.github.io/acs-assets/_prototype_v2.html
+https://ozy010.github.io/acs-assets/acs_prototype_v2.html
 ```
 
 ## Asset inventory
